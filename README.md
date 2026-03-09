@@ -43,7 +43,7 @@ Joplin PC ──sync──▶ Local Folder / Pendrive ◀──WebDAV──▶ J
 ## 📋 Requirements
 
 - Joplin installed on PC ([joplinapp.org](https://joplinapp.org))
-- Joplin installed on Android (Play Store)
+- Joplin installed on Android ([Playstore](https://play.google.com/store/apps/details?id=net.cozic.joplin&hl=en-US))
 - Both devices on the same Wi-Fi network
 - Python 3.x (for wsgidav WebDAV server)
 
