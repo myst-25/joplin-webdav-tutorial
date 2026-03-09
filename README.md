@@ -34,7 +34,7 @@ Joplin PC ──sync──▶ Local Folder / Pendrive ◀──WebDAV──▶ J
 
 <!-- Add your platform guides here -->
 
-- Windows — ([Find Here](https://joplinapp.org](https://github.com/myst-25/joplin-webdav-tutorial/blob/main/Joplin-Windows-server.md))
+- Windows — [Find Here](https://joplinapp.org](https://github.com/myst-25/joplin-webdav-tutorial/blob/main/Joplin-Windows-server.md))
 - Linux — *coming soon*
 - macOS — *coming soon*
 
