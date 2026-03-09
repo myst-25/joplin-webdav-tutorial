@@ -27,6 +27,8 @@ Joplin PC ──sync──▶ Local Folder / Pendrive ◀──WebDAV──▶ J
 - 🔐 Compatible with Joplin's built-in End-to-End Encryption
 - 🚀 Auto-starts silently on boot
 - 💾 Works with a pendrive as portable storage
+- <img width="445" height="137" alt="image" src="https://github.com/user-attachments/assets/68508f6d-a162-4ba2-b4d9-89763cb8e964" />
+
 
 ---
 
